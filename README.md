@@ -1,2 +1,2 @@
 # BMI-Calculator
-Coming soon
+Not my idea , not my code
